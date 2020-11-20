@@ -21,7 +21,7 @@ function App() {
       </Header>
       <Content className="content">
         <Card nama="Afrizal Bagas S." nim="21120117130075" photo={Afrizal} />
-        <Card nama="Mulazi" nim="21120117120077" photo={Mulazi} />
+        <Card nama="Mulazi" nim="21120117120013" photo={Mulazi} />
       </Content>
       <Footer style={{ textAlign: "center" }}>
         @{year} Created by Kelompok 30
