@@ -14,6 +14,10 @@ const StyledLink = styled(Link)`
   border-radius: 10px;
   padding: 5px;
   text-decoration: none;
+  :hover {
+    color: white;
+    border: 2px solid white;
+  }
 `;
 
 export default StyledLink;
