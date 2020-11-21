@@ -23,7 +23,7 @@ function App() {
         <Card nama="Afrizal Bagas S." nim="21120117130075" photo={Afrizal} />
         <Card nama="Mulazi" nim="21120117120013" photo={Mulazi} />
       </Content>
-      <Footer style={{ textAlign: "center" }}>
+      <Footer style={{ textAlign: "center", color: "#004643" }}>
         @{year} Created by Kelompok 30
       </Footer>
     </Layout>

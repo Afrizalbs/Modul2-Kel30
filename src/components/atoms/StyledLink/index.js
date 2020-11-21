@@ -7,10 +7,10 @@ const Link = ({ href, label, className }) => (
 );
 
 const StyledLink = styled(Link)`
-  color: #f9bc60;
+  color: #abd1c6;
   font-size: 14px;
   font-weight: 500;
-  border: 1px solid #f9bc60;
+  border: 2px solid #abd1c6;
   border-radius: 10px;
   padding: 5px;
   text-decoration: none;
