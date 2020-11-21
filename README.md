@@ -1,7 +1,4 @@
-# Kelompok 30
+# Kelompok 30 👋
 
-## Afrizal Bagas Santoso - 21120117130075
-
-## Mulazi - 21120117120013
-
- <p>hbhsabbsb</p>
+ <p>Afrizal Bagas Santoso - 21120117130075</p>
+ <p>Mulazi - 21120117120013</p>
